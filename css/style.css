@@ -1,0 +1,23 @@
+
+h1{
+    text-align: center;
+}
+table{
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid #333;
+    border-collapse: collapse;
+    padding: 5px;
+}
+tr{
+    border: 1px solid #333;
+    padding: 5px;
+}
+td{
+    border: 1px solid #333;
+    padding: 5px;
+}
+th{
+    border: 1px solid #333;
+    padding: 5px;
+}
